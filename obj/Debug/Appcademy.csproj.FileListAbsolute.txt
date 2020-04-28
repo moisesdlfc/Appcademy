@@ -1,0 +1,461 @@
+C:\Users\alumno\source\repos\Appcademy\Appcademy\bin\Debug\Appcademy.exe.config
+C:\Users\alumno\source\repos\Appcademy\Appcademy\bin\Debug\Appcademy.exe
+C:\Users\alumno\source\repos\Appcademy\Appcademy\bin\Debug\Appcademy.pdb
+C:\Users\alumno\source\repos\Appcademy\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+C:\Users\alumno\source\repos\Appcademy\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+C:\Users\alumno\source\repos\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+C:\Users\alumno\source\repos\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Appcademy\Appcademy\obj\Debug\Appcademy.exe
+C:\Users\alumno\source\repos\Appcademy\Appcademy\obj\Debug\Appcademy.pdb
+C:\Users\alumno\source\repos\Appcademy\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+C:\Users\alumno\source\repos\Appcademy\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+C:\Users\alumno\source\repos\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+C:\Users\alumno\source\repos\Appcademy\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+E:\Appcademy\Appcademy\bin\Debug\Appcademy.exe.config
+E:\Appcademy\Appcademy\bin\Debug\Appcademy.exe
+E:\Appcademy\Appcademy\bin\Debug\Appcademy.pdb
+E:\Appcademy\Appcademy\bin\Debug\MySql.Data.dll
+E:\Appcademy\Appcademy\bin\Debug\Google.Protobuf.dll
+E:\Appcademy\Appcademy\bin\Debug\MySql.Data.xml
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.exe
+E:\Appcademy\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\bin\Debug\Appcademy.exe.config
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\bin\Debug\Appcademy.exe
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\bin\Debug\Appcademy.pdb
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\bin\Debug\MySql.Data.dll
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\bin\Debug\Google.Protobuf.dll
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\bin\Debug\MySql.Data.xml
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.csprojAssemblyReference.cache
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.exe
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy\Appcademy\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 3.0\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\bin\Debug\Appcademy.exe.config
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\bin\Debug\Appcademy.exe
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\bin\Debug\Appcademy.pdb
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\bin\Debug\MySql.Data.dll
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\bin\Debug\Google.Protobuf.dll
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\bin\Debug\MySql.Data.xml
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.csprojAssemblyReference.cache
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.exe
+C:\Users\david\Desktop\APPCADEMY ACTUAL\Appcademy 4.0\Appcademy 4.0\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 4.1\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.2\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.3\Appcademy\obj\Debug\Appcademy.FormModificarHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormModificarHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormModificarHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.1\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormModificarHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.2\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormModificarHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.3\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormModificarHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.4\Appcademy\obj\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\bin\Debug\Appcademy.exe.config
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\bin\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\bin\Debug\Appcademy.pdb
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\bin\Debug\MySql.Data.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\bin\Debug\Google.Protobuf.dll
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\bin\Debug\MySql.Data.xml
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormModificarHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.exe
+F:\Developer\Cursos\DAM\Segundo\Appcademy\Versiones\Appcademy 0.5.5\Appcademy\obj\Debug\Appcademy.pdb
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\bin\Debug\Appcademy.exe.config
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\bin\Debug\Appcademy.exe
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\bin\Debug\Appcademy.pdb
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\bin\Debug\MySql.Data.dll
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\bin\Debug\Google.Protobuf.dll
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\bin\Debug\MySql.Data.xml
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormModificarHorario.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.exe
+E:\Developments\Visual Studio\Appcademy 1.0\Appcademy\obj\Debug\Appcademy.pdb
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\bin\Debug\Appcademy.exe.config
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\bin\Debug\Appcademy.exe
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\bin\Debug\Appcademy.pdb
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\bin\Debug\MySql.Data.dll
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\bin\Debug\Google.Protobuf.dll
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\bin\Debug\MySql.Data.xml
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.csprojResolveAssemblyReference.cache
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormAlumnos.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormAsignaturas.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormConfiguracion.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormCursos.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormHorarios.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormLogin.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormModificarCurso.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormModificarHorario.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormNuevoCurso.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormNuevoAlumno.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormNuevoAsignatura.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormNuevoHorario.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormNuevoProfesor.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormPadre.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormProfesores.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.FormSplashScreen.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.Properties.Resources.resources
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.csproj.GenerateResource.cache
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.csproj.CoreCompileInputs.cache
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.csproj.CopyComplete
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.exe
+E:\Developments\Visual Studio\Appcademy 1.1\Appcademy\obj\Debug\Appcademy.pdb

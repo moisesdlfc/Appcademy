@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CA978483-A029-4FC4-8A99-08010EFC6108}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Appcademy</RootNamespace>
+    <AssemblyName>Appcademy</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alumno.cs" />
+    <Compile Include="Asignatura.cs" />
+    <Compile Include="Aula.cs" />
+    <Compile Include="ComboItem.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Curso.cs" />
+    <Compile Include="FormAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlumnos.Designer.cs">
+      <DependentUpon>FormAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAsignaturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAsignaturas.Designer.cs">
+      <DependentUpon>FormAsignaturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfiguracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfiguracion.Designer.cs">
+      <DependentUpon>FormConfiguracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCursos.Designer.cs">
+      <DependentUpon>FormCursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHorarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHorarios.Designer.cs">
+      <DependentUpon>FormHorarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormModificarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModificarCurso.Designer.cs">
+      <DependentUpon>FormModificarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormModificarHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModificarHorario.Designer.cs">
+      <DependentUpon>FormModificarHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNuevoCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNuevoCurso.Designer.cs">
+      <DependentUpon>FormNuevoCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNuevoAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNuevoAlumno.Designer.cs">
+      <DependentUpon>FormNuevoAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNuevoAsignatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNuevoAsignatura.Designer.cs">
+      <DependentUpon>FormNuevoAsignatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNuevoHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNuevoHorario.Designer.cs">
+      <DependentUpon>FormNuevoHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNuevoProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNuevoProfesor.Designer.cs">
+      <DependentUpon>FormNuevoProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPadre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPadre.Designer.cs">
+      <DependentUpon>FormPadre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfesores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfesores.Designer.cs">
+      <DependentUpon>FormProfesores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSplashScreen.Designer.cs">
+      <DependentUpon>FormSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDtoTEXT.cs" />
+    <Compile Include="ToolsCSV.cs" />
+    <Compile Include="Profesor.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils.cs" />
+    <EmbeddedResource Include="FormAlumnos.resx">
+      <DependentUpon>FormAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAsignaturas.resx">
+      <DependentUpon>FormAsignaturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfiguracion.resx">
+      <DependentUpon>FormConfiguracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCursos.resx">
+      <DependentUpon>FormCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHorarios.resx">
+      <DependentUpon>FormHorarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModificarCurso.resx">
+      <DependentUpon>FormModificarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModificarHorario.resx">
+      <DependentUpon>FormModificarHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNuevoCurso.resx">
+      <DependentUpon>FormNuevoCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNuevoAlumno.resx">
+      <DependentUpon>FormNuevoAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNuevoAsignatura.resx">
+      <DependentUpon>FormNuevoAsignatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNuevoHorario.resx">
+      <DependentUpon>FormNuevoHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNuevoProfesor.resx">
+      <DependentUpon>FormNuevoProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPadre.resx">
+      <DependentUpon>FormPadre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfesores.resx">
+      <DependentUpon>FormProfesores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSplashScreen.resx">
+      <DependentUpon>FormSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expo-soluciones-empresariales-fondo-azul-claro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expo-soluciones-empresariales-fondo-blanco.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
